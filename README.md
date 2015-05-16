@@ -1,2 +1,3 @@
-# so_tsi_fatec
-Repositório de arquivos contendo os scripts desenvolvidos nas aulas de Sistemas Operacionais do curso de Tecnologia em Segurança da Informação.
+<CENTER>
+<img src="http://www.unimep.br/~jlzem/lecc/logo_lecc.jpg"><BR>
+</CENTER>
